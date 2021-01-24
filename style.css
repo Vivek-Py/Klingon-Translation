@@ -53,3 +53,18 @@ textarea{
     padding-top: 29px;
     margin-top: 25px;
 }
+
+.imagecontainer{
+    margin: auto;
+    max-width: 200px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 90px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
