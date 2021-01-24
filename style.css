@@ -6,6 +6,7 @@ textarea{
     width: 80%;
     height: 10vh;
     margin: auto;
+    background-color: #ffffe6;
 }
         
 #output{
@@ -16,6 +17,9 @@ textarea{
     width: 80%;
     height: 10vh;
     margin: auto;
+    background-color: #ffffe6;
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
 
 .heading{
@@ -45,26 +49,22 @@ textarea{
 
 .footer{
     text-align: center;
-    height: 8vh;
+    height: 10vh;
     font-size: large;
     background-color: rgb(46, 46, 38);
     color: rgb(255, 255, 255);
     font-family: 'Raleway', sans-serif;
     padding-top: 29px;
-    margin-top: 25px;
 }
 
-.imagecontainer{
-    margin: auto;
-    max-width: 200px;
-    align-items: center;
-    margin-bottom: 20px;
+header{
+    background: url('./space.jpg');
 }
 
-img{
-    height: 90px;
-    width: 200px;
-    display: block;
-    margin: auto;
+footer{
+    background: url('./space.jpg');
 }
 
+.body-content{
+    background-color: aliceblue;
+}
